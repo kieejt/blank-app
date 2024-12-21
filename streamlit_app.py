@@ -13,12 +13,10 @@ def load_models():
 
 random_forest_model, tfidf_vectorizer, lsa_model = load_models()
 
-stopwords = [
-    'và', 'là', 'của', 'cho', 'có', 'như', 'với', 'từ', 'để', 'đến', 'một',
-    'nhưng', 'cũng', 'thì', 'này', 'đó', 'được', 'trên', 'dưới', 'khi', 'ở',
-    'nơi', 'vì', 'sao', 'cùng', 'rằng', 'ra', 'vẫn', 'đang', 'hãy', 'đã', 'nếu'
-    # Bạn có thể mở rộng danh sách này tùy ý
-]
+# Load the Vietnamese stopwords
+with open('vietnamese-stopwords.txt', 'r', encoding='utf-8') as file:
+    stop_words = set(file.read().splitlines())
+
 # Define text-cleaning function
 def clean_text(text):
     # 1. Loại bỏ ký tự đặc biệt
@@ -30,8 +28,10 @@ def clean_text(text):
     text = text.lower()
 
     # 3. Loại bỏ stopword
-    words = text.split()
-    words = [word for word in words if word not in stopwords]
+    if isinstance(text, str):  # Ensure text is a string
+        words = text.split()
+        cleaned_text = ' '.join([word for word in words if word not in stop_words])
+        return cleaned_text
     return ' '.join(words)
 
 # Streamlit app interface
