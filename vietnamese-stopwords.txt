@@ -146,7 +146,6 @@ bởi
 bởi ai
 bởi chưng
 bởi nhưng
-bởi sao
 bởi thế
 bởi thế cho nên
 bởi tại
@@ -295,7 +294,6 @@ chứ không phải
 chứ lại
 chứ lị
 chứ như
-chứ sao
 coi bộ
 coi mòi
 con
@@ -451,7 +449,6 @@ dù cho
 dù dì
 dù gì
 dù rằng
-dù sao
 dùng
 dùng cho
 dùng hết
@@ -467,12 +464,10 @@ dạ dạ
 dạ khách
 dần dà
 dần dần
-dầu sao
 dẫn
 dẫu
 dẫu mà
 dẫu rằng
-dẫu sao
 dễ
 dễ dùng
 dễ gì
@@ -532,17 +527,6 @@ gặp
 gặp khó khăn
 gặp phải
 gồm
-hay
-hay biết
-hay hay
-hay không
-hay là
-hay làm
-hay nhỉ
-hay nói
-hay sao
-hay tin
-hay đâu
 hiểu
 hiện nay
 hiện tại
@@ -594,17 +578,6 @@ khác nào
 khác thường
 khác xa
 khách
-khó
-khó biết
-khó chơi
-khó khăn
-khó làm
-khó mở
-khó nghe
-khó nghĩ
-khó nói
-khó thấy
-khó tránh
 không
 không ai
 không bao giờ
@@ -671,7 +644,6 @@ làm như
 làm nên
 làm ra
 làm riêng
-làm sao
 làm theo
 làm thế nào
 làm tin
@@ -1160,7 +1132,6 @@ ra lại
 ra lời
 ra ngôi
 ra người
-ra sao
 ra tay
 ra vào
 ra ý
@@ -1186,7 +1157,6 @@ rõ thật
 rút cục
 răng
 răng răng
-rất
 rất lâu
 rằng
 rằng là
@@ -1195,7 +1165,6 @@ rốt cục
 rồi
 rồi nữa
 rồi ra
-rồi sao
 rồi sau
 rồi tay
 rồi thì
@@ -1207,12 +1176,6 @@ sang
 sang năm
 sang sáng
 sang tay
-sao
-sao bản
-sao bằng
-sao cho
-sao vậy
-sao đang
 sau
 sau chót
 sau cuối
@@ -1315,11 +1278,6 @@ thì phải
 thì ra
 thì thôi
 thình lình
-thích
-thích cứ
-thích thuộc
-thích tự
-thích ý
 thím
 thôi
 thôi việc
@@ -1358,7 +1316,6 @@ thật quả
 thật ra
 thật sự
 thật thà
-thật tốt
 thật vậy
 thế
 thế chuẩn bị
@@ -1463,7 +1420,6 @@ tuy rằng
 tuy thế
 tuy vậy
 tuy đã
-tuyệt nhiên
 tuần tự
 tuốt luốt
 tuốt tuồn tuột
@@ -1508,7 +1464,6 @@ tăng thế
 tại
 tại lòng
 tại nơi
-tại sao
 tại tôi
 tại vì
 tại đâu
@@ -1618,7 +1573,6 @@ vèo vèo
 vì
 vì chưng
 vì rằng
-vì sao
 vì thế
 vì vậy
 ví bằng
@@ -1704,7 +1658,6 @@ xảy ra
 xềnh xệch
 xệp
 xử lý
-yêu cầu
 à
 à này
 à ơi
@@ -1732,7 +1685,6 @@ yêu cầu
 ít ra
 ít thôi
 ít thấy
-ô hay
 ô hô
 ô kê
 ô kìa

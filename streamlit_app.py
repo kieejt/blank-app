@@ -8,7 +8,7 @@ import pandas as pd
 def load_models():
     random_forest_model = joblib.load("random_forest_model.pkl")
     tfidf_vectorizer = joblib.load("tfidf_vectorizer.pkl")
-    lsa_model = joblib.load("lda_model.pkl")
+    lsa_model = joblib.load("lsa_model.pkl")
     return random_forest_model, tfidf_vectorizer, lsa_model
 
 random_forest_model, tfidf_vectorizer, lsa_model = load_models()
